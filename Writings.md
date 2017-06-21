@@ -6,8 +6,8 @@ Saibaba Vinayakaya Namaha! Saraswati devi
 
 ### slush
 
-* [The art of slush]()
+* [The art of slush](https://github.com/sameeri/Code-slush/wiki)
 
 ### Cucumber-js
 
-* [Playing with Cucumber-js]((https://github.com/sameeri/Code-CucumberJS/wiki))
+* [Playing with Cucumber-js](https://github.com/sameeri/Code-CucumberJS/wiki)
