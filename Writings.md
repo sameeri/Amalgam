@@ -4,7 +4,12 @@ Saibaba Vinayakaya Namaha! Saraswati devi
 ### Elixir
 
 * [Elixir Talk](https://github.com/sameeri/Hello-Elixir)
+* [Elixir Notes](http://sameeri.github.io/2014/10/15/To-Code-Everyday/)
 
+### Erlang
+
+* 
+* 
 
 ### Redux
 
@@ -38,4 +43,12 @@ Saibaba Vinayakaya Namaha! Saraswati devi
 
 * []()
 * [Rest APIs with slush](https://github.com/sameeri/slush-rest-hapi/wiki/About)
+
+
+### Old Writings
+
+
+* [To Code Everyday](http://sameeri.github.io/2014/10/15/To-Code-Everyday/)
+* [The power of habit](http://sameeri.github.io/2014/10/14/The-Power-of-Habit/)
+* [Expecto Patronum](http://sameeri.github.io/2014/10/13/Expecto-Patronum/)
 
