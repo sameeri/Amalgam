@@ -1,5 +1,15 @@
 Saibaba Vinayakaya Namaha! Saraswati devi
 
+
+### Elixir
+
+* [Elixir Talk](https://github.com/sameeri/Hello-Elixir)
+
+
+### Redux
+
+* Redux Notes(https://github.com/sameeri/Code-redux/wiki)
+
 ### gulp
 
 * [The Art of gulp](https://github.com/sameeri/Code-gulp/wiki)
@@ -23,3 +33,9 @@ Saibaba Vinayakaya Namaha! Saraswati devi
 ### React
 
 * [Understanding React](https://github.com/sameeri/Code-React/wiki)
+
+### Hapi
+
+* []()
+* [Rest APIs with slush](https://github.com/sameeri/slush-rest-hapi/wiki/About)
+
