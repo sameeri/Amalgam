@@ -13,7 +13,11 @@ Saibaba Vinayakaya Namaha! Saraswati devi
 
 ### Redux
 
-* Redux Notes(https://github.com/sameeri/Code-redux/wiki)
+* [Redux Notes](https://github.com/sameeri/Code-redux/wiki)
+
+### System Adventures
+
+* [V8](https://github.com/sameeri/system-adventures/wiki) 
 
 ### gulp
 
@@ -51,4 +55,7 @@ Saibaba Vinayakaya Namaha! Saraswati devi
 * [To Code Everyday](http://sameeri.github.io/2014/10/15/To-Code-Everyday/)
 * [The power of habit](http://sameeri.github.io/2014/10/14/The-Power-of-Habit/)
 * [Expecto Patronum](http://sameeri.github.io/2014/10/13/Expecto-Patronum/)
-
+* [People Driven Development](http://www.whack-whack.info/2015/08/people-driven-development.html)
+* [Code is for People](http://www.whack-whack.info/2015/03/code-is-for-people.html)
+* [What's an API, library and a Framework?](http://www.whack-whack.info/2014/04/whats-api-library-and-framework.html)
+* 
